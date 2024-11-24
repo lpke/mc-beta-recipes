@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "minecraft:snow_block",
+    "count": 1
+  }
+}

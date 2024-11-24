@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "wool",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "tag": "beta_recipes:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blue_wool",
+    "count": 1
+  }
+}

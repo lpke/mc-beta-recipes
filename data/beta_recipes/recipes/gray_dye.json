@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "beta_recipes:black_dye"
+    },
+    {
+      "tag": "beta_recipes:white_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gray_dye",
+    "count": 2
+  }
+}

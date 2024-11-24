@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "pattern": [
+    "###",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_bed",
+    "count": 1
+  }
+}

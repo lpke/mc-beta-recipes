@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "minecraft:clay",
+    "count": 1
+  }
+}
