@@ -9,6 +9,7 @@ pleasant. Variations from pure Beta 1.7.3 recipes are listed below:
 
 ## Crafting
 
+* Allow basic item repair (using same tools)
 * Allow crafting oak buttons
 * Smooth stone slabs can be created with either:
   * 3 stone - yielding only 3 slabs
