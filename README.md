@@ -11,9 +11,6 @@ pleasant. Variations from pure Beta 1.7.3 recipes are listed below:
 
 * Allow basic item repair (using same tools)
 * Allow crafting oak buttons
-* Smooth stone slabs can be created with either:
-  * 3 stone - yielding only 3 slabs
-  * 3 smooth stone - yielding the full 6 slabs
 * The following items work as dyes, and can also be crafted into their dye
 counterparts (and crafted back):
   * Cocoa Beans / Brown Dye
